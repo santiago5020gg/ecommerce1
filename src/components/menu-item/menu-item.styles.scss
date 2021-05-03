@@ -5,20 +5,18 @@
   align-items: center;
   justify-content: center;
   border: 1px solid black;
-
   &:hover {
     cursor: pointer;
-  
+
     & .background-image {
       transform: scale(1.1);
       transition: transform 6s cubic-bezier(0.25, 0.45, 0.45, 0.95);
     }
-  
+
     & .content {
       opacity: 0.9;
     }
   }
-  
 
   &.large {
     height: 380px;
@@ -51,7 +49,9 @@
     background-color: white;
     opacity: 0.7;
     position: absolute;
-
+    @media screen and (max-width: 400px) {
+      max-width: 80px;
+    }
 
     .title {
       font-weight: bold;
