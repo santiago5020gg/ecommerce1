@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "d11a589728c80b0cd615",
-    "url": "/ecommerce1/static/css/main.63e85798.chunk.css"
+    "revision": "810dd387f7bf55017e19",
+    "url": "/ecommerce1/static/css/main.ff2601e2.chunk.css"
   },
   {
-    "revision": "d11a589728c80b0cd615",
+    "revision": "810dd387f7bf55017e19",
     "url": "/ecommerce1/static/js/main.1dc4d344.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ecommerce1/static/media/shopping-bag.30f07071.svg"
   },
   {
-    "revision": "68a7cec732be4093bbf31249bb069d48",
+    "revision": "976d9f161644d33fb40b11aa93331af3",
     "url": "/ecommerce1/index.html"
   }
 ];
