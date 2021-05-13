@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "f5ea946cbfa651206ffa",
-    "url": "/ecommerce1/static/css/main.1db1ac14.chunk.css"
+    "revision": "3f6c5964576bd5ade467",
+    "url": "/ecommerce1/static/css/main.760f0eaf.chunk.css"
   },
   {
-    "revision": "f5ea946cbfa651206ffa",
-    "url": "/ecommerce1/static/js/main.2d71f2ab.chunk.js"
+    "revision": "3f6c5964576bd5ade467",
+    "url": "/ecommerce1/static/js/main.698a8177.chunk.js"
   },
   {
     "revision": "69d6e6e3200a9d3d2f92",
     "url": "/ecommerce1/static/js/runtime~main.46cbc536.js"
   },
   {
-    "revision": "83c505391a0233d99f6e",
-    "url": "/ecommerce1/static/js/2.0127cd04.chunk.js"
+    "revision": "c8f216fa0f1182d9584d",
+    "url": "/ecommerce1/static/js/2.d04d1ea8.chunk.js"
   },
   {
     "revision": "ed28accb7dd58a0469bff983503ff07e",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ecommerce1/static/media/shopping-bag.30f07071.svg"
   },
   {
-    "revision": "e73253080beef89bd058aaf090ba9368",
+    "revision": "77611fe4d7145f427349af0c08f5fb12",
     "url": "/ecommerce1/index.html"
   }
 ];
