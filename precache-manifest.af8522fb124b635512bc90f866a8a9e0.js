@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ecommerce1/static/media/shopping-bag.30f07071.svg"
   },
   {
-    "revision": "77611fe4d7145f427349af0c08f5fb12",
+    "revision": "a463b11dee05e980c8e66d7b0af97982",
     "url": "/ecommerce1/index.html"
   }
 ];
