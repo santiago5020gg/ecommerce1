@@ -20,3 +20,8 @@ After forking the project, simply clone it the way you would from the new forked
 In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
 
 
+preguntas
+
+usando styled components... no se usa clases? por ejemplo un caso de una clase que 
+tenga 
+pseudo-selector over y este modifica otro estilo de otra clase... como es el caso ahi
