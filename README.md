@@ -22,6 +22,9 @@ In your terminal after you clone your project down, remember to run either `yarn
 
 preguntas
 
-usando styled components... no se usa clases? por ejemplo un caso de una clase que 
+1) usando styled components... no se usa clases? por ejemplo un caso de una clase que 
 tenga 
-pseudo-selector over y este modifica otro estilo de otra clase... como es el caso ahi
+2) a veces cuando aparece un bug de una clase, se mira el DOM y nombre de la clase, pero
+usando styledComponents, no se puede saber donde esta el estilo del componente,
+como es ahi?
+3) que pasa con la integracion con otras librerias css como material? debuguear
