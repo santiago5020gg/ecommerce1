@@ -13,7 +13,9 @@ const CollectionsOverview = ({ collections }) => (
 
 const mapStateToProps = (state) => {
   return {
-    collections: Object.values(state.shop.collections),
+    collections: state.shop.collections
+      ? Object.values(state.shop.collections)
+      : [],
   };
 };
 

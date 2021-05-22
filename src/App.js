@@ -85,7 +85,7 @@ class App extends Component {
 const mapStateToProps = (state) => {
   return {
     currentUser: state.user.currentUser,
-    collectionsArray: Object.values(state.shop.collections),
+    collectionsArray: state.shop.collections ? Object.values(state.shop.collections) : [],
   };
 };
 
